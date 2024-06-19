@@ -1,7 +1,6 @@
 - 👋 Hola, Soy @Huposeva
 - 👀 Estoy interesado en programar 
 - 🌱 Estoy aprendiendo programación 
-- 💞️ Quiero colaborar en un mod de Friday Night Funkin'
 - 📫 Podes enviarme un correo: minehupo@gmail.com
 
 <!---
